@@ -1,4 +1,4 @@
-# NumPy Learning Journey 🚀
+NumPy Learning Journey 🚀
 
 A complete hands-on repository for learning **NumPy in Python** from basics to practical problem-solving.
 
